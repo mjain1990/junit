@@ -19,4 +19,4 @@ public class AllTests {
         suite.addTest(junit.tests.extensions.AllTests.suite());
         return suite;
     }
-}
+} 
